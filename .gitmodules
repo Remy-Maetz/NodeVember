@@ -1,0 +1,6 @@
+[submodule "Submodules/Mixture"]
+	path = Submodules/Mixture
+	url = https://github.com/alelievr/Mixture.git
+[submodule "Submodules/NodeGraphProcessor"]
+	path = Submodules/NodeGraphProcessor
+	url = https://github.com/alelievr/NodeGraphProcessor.git

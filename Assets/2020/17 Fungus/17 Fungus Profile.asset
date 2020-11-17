@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2686e09ec7aef44bad2843e4416f057, type: 3}
+  m_Name: 17 Fungus Profile
+  m_EditorClassIdentifier: 
+  m_Version: 1
+  profile:
+    scatteringDistance: {r: 0.57758063, g: 0.23074007, b: 0.056128494, a: 1}
+    transmissionTint: {r: 0.597202, g: 0.25415218, b: 0.06480328, a: 1}
+    texturingMode: 0
+    transmissionMode: 0
+    thicknessRemap: {x: 0, y: 2.432134}
+    worldScale: 0.2
+    ior: 1.2
+    hash: 1082121568
